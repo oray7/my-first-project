@@ -1,0 +1,51 @@
+#time {
+    color: gray;                    /* لون النص رمادي */
+    font-weight: bold;               /* تكبير الخط */
+    font-size: 24px;                 /* حجم الخط */
+    text-align: center;              /* النص في الوسط */
+    padding: 10px 20px;              /* مساحة داخلية بسيطة */
+    border: 2px solid darkgray;      /* حدود خفيفة بلون رمادي مناسب */
+    border-radius: 8px;              /* زوايا دائرية لطيفة */
+    background-color: rgb(229, 231, 229);      /* خلفية فاتحة متناسقة */
+    display: inline-block;           /* شكل مربع حول النص */
+}
+/*
+#cards{
+
+    display: none;
+
+
+}
+
+*/
+
+#loader{
+
+    position: fixed;
+    top: 50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+
+}
+
+
+.loader-con{
+    display: block;
+position: fixed;
+top: 0%;
+left: 0%;
+width: 100%;
+height: 100%;
+background-color: rgba(0, 0, 0, 0.865);
+}
+
+.list-group-item{
+
+
+    background: transparent;
+}
+
+img{
+
+    max-width: 100%;
+}
