@@ -1,13 +1,13 @@
 #time {
-    color: gray;                    /* لون النص رمادي */
-    font-weight: bold;               /* تكبير الخط */
-    font-size: 24px;                 /* حجم الخط */
-    text-align: center;              /* النص في الوسط */
-    padding: 10px 20px;              /* مساحة داخلية بسيطة */
-    border: 2px solid darkgray;      /* حدود خفيفة بلون رمادي مناسب */
-    border-radius: 8px;              /* زوايا دائرية لطيفة */
-    background-color: rgb(229, 231, 229);      /* خلفية فاتحة متناسقة */
-    display: inline-block;           /* شكل مربع حول النص */
+    color: gray;                    
+    font-weight: bold;               
+    font-size: 24px;                 
+    text-align: center;             
+    padding: 10px 20px;             
+    border: 2px solid darkgray;      
+    border-radius: 8px;              
+    background-color: rgb(229, 231, 229);      
+    display: inline-block;        
 }
 /*
 #cards{
